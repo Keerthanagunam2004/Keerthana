@@ -28,14 +28,17 @@ Concepts : Data Cleaning, ETL, Data Visualization, Exploratory Data Analysis (ED
 
 **Road Accidents Data Analysis :**
 Cleaned and prepared accident data using SQL, then developed an interactive Power BI dashboard to show accident patterns, vehicle involvement, and city-wise trends. Added slicers and visuals for easy interpretation.
+
 **Tools used :** Power BI, MYSQL.
 
 **Credit Card Fraud Detection :**
-Performed exploratory data analysis (EDA) on a credit card transaction dataset to identify fraud  patterns. Applied data preprocessing, visualization, and statistical analysis to uncover key insights and highlight anomalies. 
+Performed exploratory data analysis (EDA) on a credit card transaction dataset to identify fraud  patterns. Applied data preprocessing, visualization, and statistical analysis to uncover key insights and highlight anomalies.
+
 **Tools used :** Python, Pandas, Matplotlib, Seaborn
 
 **Mood-Based Music Recommendation Web App :** 
 Developed a Flask-based web application that recommends music based on user mood. Designed multiple web pages and handled user input using Flask for interactive experience.
+
 **Tools used :** Python, Flask, HTML, CSS.
 
 **Find Me Online:**
