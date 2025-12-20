@@ -1,4 +1,4 @@
-## **Hi there, I'm Keerthana G 👋  **
+## Hi there, I'm Keerthana G 👋 
 ## 🎯 Career Objective
 
 Seeking an entry-level position in the IT domain where I can apply my skills in **Python, SQL, and Power BI**, along with basic knowledge of **Flask**, to support projects, solve real-world problems, and develop practical solutions while continuously learning new technologies and contributing effectively to team goals.
